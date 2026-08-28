@@ -25,5 +25,5 @@ module cla4_dataflow(
   wire c1, c2, c3;
 
   // TODO: your dataflow (assign) statements go here.
-
+  
 endmodule
